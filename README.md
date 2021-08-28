@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SarahBuzaglo
-- 👀 I’m interested in machine learning, deep learning, computer vision, signal processing and algorithmics.
+- 👀 I’m interested in machine learning, computer vision, signal processing and algorithmics.
 - 🌱 I’m currently learning Bsc in Electrical engineering with a major in machine learning and signal processing.
 - 📫 How to reach me : sarah.b@campus.technion.ac.il
 
